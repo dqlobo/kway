@@ -5,4 +5,4 @@
 layout: default
 ---
 
-UPdated
+Last Generated: {{ page.date }}
