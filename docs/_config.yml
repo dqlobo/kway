@@ -16,7 +16,7 @@
 title: "Kway"
 email: dqlobo@gmail.com
 description: Github Pages + Code documentation made easy
-baseurl: "" # "/kway" # the subpath of your site, e.g. /blog
+baseurl: "/kway" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  dqlobo
