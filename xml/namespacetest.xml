@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.14">
+  <compounddef id="namespacetest" kind="namespace" language="Python">
+    <compoundname>test</compoundname>
+    <innerclass refid="classtest_1_1_test" prot="public">test::Test</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="test.py" line="1" column="1"/>
+  </compounddef>
+</doxygen>

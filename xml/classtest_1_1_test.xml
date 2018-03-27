@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.14">
+  <compounddef id="classtest_1_1_test" kind="class" language="Python" prot="public">
+    <compoundname>test::Test</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classtest_1_1_test_1a58744d61750f2a5a96b0bc449539a837" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def test.Test.myFunction</definition>
+        <argsstring>()</argsstring>
+        <name>myFunction</name>
+        <briefdescription>
+<para>Title This is a test. </para>        </briefdescription>
+        <detaileddescription>
+<para>This class will do this:<orderedlist>
+<listitem><para>Sometain</para></listitem><listitem><para>Summatime <simplesect kind="return"><para>Nada </para></simplesect>
+</para></listitem></orderedlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="test.py" line="2" column="1" bodyfile="test.py" bodystart="2" bodyend="11"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="test.py" line="1" column="1" bodyfile="test.py" bodystart="1" bodyend="11"/>
+    <listofallmembers>
+      <member refid="classtest_1_1_test_1a58744d61750f2a5a96b0bc449539a837" prot="public" virt="non-virtual"><scope>test::Test</scope><name>myFunction</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -5,4 +5,5 @@
 layout: default
 ---
 
-Last Generated: {{ page.date }}
+[Test]({{ site.url + }}/reference)
+

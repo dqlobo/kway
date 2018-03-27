@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<doxygen version="1.8.14"><compounddef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="classtest_1_1_test" kind="class" language="Python" prot="public">
+    <compoundname>test::Test</compoundname>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classtest_1_1_test_1a58744d61750f2a5a96b0bc449539a837" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>def</type>
+        <definition>def test.Test.myFunction</definition>
+        <argsstring>()</argsstring>
+        <name>myFunction</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para><verbatim>This is a test.
+</verbatim> </para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="test.py" line="2" column="1" bodyfile="test.py" bodystart="2" bodyend="7"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="test.py" line="1" column="1" bodyfile="test.py" bodystart="1" bodyend="7"/>
+    <listofallmembers>
+      <member refid="classtest_1_1_test_1a58744d61750f2a5a96b0bc449539a837" prot="public" virt="non-virtual"><scope>test::Test</scope><name>myFunction</name></member>
+    </listofallmembers>
+  </compounddef><compounddef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="namespacetest" kind="namespace" language="Python">
+    <compoundname>test</compoundname>
+    <innerclass refid="classtest_1_1_test" prot="public">test::Test</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="test.py" line="1" column="1"/>
+  </compounddef><compounddef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="_r_e_a_d_m_e_8md" kind="file" language="Markdown">
+    <compoundname>README.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline/>
+<codeline><highlight class="normal">#<sp/>kway</highlight></codeline>
+<codeline><highlight class="normal">Github<sp/>Pages<sp/>+<sp/>Code<sp/>documentation<sp/>made<sp/>easy</highlight></codeline>
+    </programlisting>
+    <location file="README.md"/>
+  </compounddef><compounddef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="test_8py" kind="file" language="Python">
+    <compoundname>test.py</compoundname>
+    <innerclass refid="classtest_1_1_test" prot="public">test::Test</innerclass>
+    <innernamespace refid="namespacetest">test</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1" refid="classtest_1_1_test" refkind="compound"><highlight class="keyword">class<sp/></highlight><highlight class="normal"><ref refid="classtest_1_1_test" kindref="compound">Test</ref>:</highlight></codeline>
+<codeline lineno="2"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">def<sp/></highlight><highlight class="normal"><ref refid="classtest_1_1_test_1a58744d61750f2a5a96b0bc449539a837" kindref="member">myFunction</ref>():</highlight></codeline>
+<codeline lineno="3"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="stringliteral">'''</highlight></codeline>
+<codeline lineno="4"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>This<sp/>is<sp/>a<sp/>test.</highlight></codeline>
+<codeline lineno="5"><highlight class="stringliteral"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>'''</highlight><highlight class="normal"/></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>print(</highlight><highlight class="stringliteral">'hi<sp/>there'</highlight><highlight class="normal">)</highlight></codeline>
+    </programlisting>
+    <location file="test.py"/>
+  </compounddef><compounddef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="md__r_e_a_d_m_e" kind="page">
+    <compoundname>md_README</compoundname>
+    <title>kway</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Github Pages + Code documentation made easy </para>    </detaileddescription>
+  </compounddef></doxygen>

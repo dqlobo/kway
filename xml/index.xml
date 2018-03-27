@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.14">
+  <compound refid="classtest_1_1_test" kind="class"><name>test::Test</name>
+    <member refid="classtest_1_1_test_1a58744d61750f2a5a96b0bc449539a837" kind="function"><name>myFunction</name></member>
+  </compound>
+  <compound refid="namespacetest" kind="namespace"><name>test</name>
+  </compound>
+  <compound refid="_r_e_a_d_m_e_8md" kind="file"><name>README.md</name>
+  </compound>
+  <compound refid="test_8py" kind="file"><name>test.py</name>
+  </compound>
+  <compound refid="md__r_e_a_d_m_e" kind="page"><name>md_README</name>
+  </compound>
+</doxygenindex>
